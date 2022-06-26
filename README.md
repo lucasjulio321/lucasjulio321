@@ -12,9 +12,9 @@
  </div>
  
  <div>
-  <a href="https://github.com/Lucasjulio321"
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Lucasjulio321l&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucasjulio321&layout=compact&langs_count=7&theme=radical"/>
+  <a href="https://github.com/LucasJulioSouza"
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=LucasjulioSouzal&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasjulioSouza&layout=compact&langs_count=7&theme=radical"/>
  </div>
  
  
@@ -25,7 +25,7 @@
   <img align="center" alt="pedro-java" height="50" width="60" src="https://github.com/Driinho/devicon/blob/master/icons/java/java-original.svg" >
  </div>
  
-![Snake animation](https://github.com/Lucasjulio321/Lucasjulio321/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/LucasjulioSouza/LucasjulioSouza/blob/output/github-contribution-grid-snake.svg)
 
 
 <!--
