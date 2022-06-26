@@ -12,9 +12,9 @@
  </div>
  
  <div>
-  <a href="https://github.com/LucasJulioSouza%22%3E
-  <img height="150em" src="https://github-readme-stats.vercel.app/apiusername=LucasJulioSouza&show_icons=true&theme=radical&include_all_commits=true&count_private=true%22/%3E
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasJulioSouza&layout=compact&langs_count=7&theme=radical%22/%3E
+  <a href="https://github.com/LucasJulioSouza">
+  <img height="150em" src="https://github-readmstats.vercel.app/apiusername=LucasJulioSouza&show_icons=true&theme=radical&include_all_commits=true&count_private=true%22/%3E">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasJulioSouza&layout=compact&langs_count=7&theme=radical%22/%3E">
  </div>
  
  
